@@ -31,7 +31,7 @@ Web Devoloper and Design Website
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </picture>
 </a>
-<a href="https://www.youtube.com/@saikokimura" target="_blank" rel="noreferrer">
+<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="undefined" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
