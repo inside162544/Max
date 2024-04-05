@@ -5,7 +5,7 @@ Web Devoloper and Design Website
 --------------------------------
 
 *   🌍  I'm based in Thailand
-*   🖥️  See my portfolio at [https://sappawatportfolio.netlify.app/](http://https://sappawatportfolio.netlify.app/)
+*   🖥️  See my portfolio at [https://sappawatportfolio.netlify.app/](https://sappawatportfolio.netlify.app/)
 *   ✉️  You can contact me at [inside162544@gmail.com](mailto:inside162544@gmail.com)
 *   ## Skills 
 <p align="left">
